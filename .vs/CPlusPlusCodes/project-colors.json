@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9efe93e3-d048-4ff3-b96b-0859bd6d3747": {
+      "ProjectGuid": "9efe93e3-d048-4ff3-b96b-0859bd6d3747",
+      "DisplayName": "CPlusPlusCodes",
+      "ColorIndex": 0
+    },
+    "8c939a02-9125-458d-8be8-0f55fc6962c1": {
+      "ProjectGuid": "8c939a02-9125-458d-8be8-0f55fc6962c1",
+      "DisplayName": "C Plus Plus Samples",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
